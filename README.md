@@ -1,4 +1,11 @@
-### Hi there 👋
+<h3 align="center">Hi, there 👋 </h3>
+
+<p align="center">
+  <samp>
+    I am a Software engineer who has worked on iOS and Android applications.<br />
+    Currently I'm working on Artificial Intelligence.
+  </samp>
+</p>
 
 <!--
 **hs0805/hs0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
