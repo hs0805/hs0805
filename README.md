@@ -3,7 +3,7 @@
 <p align="center">
   <samp>
     I am a Software engineer who has worked on iOS and Android applications.<br />
-    Currently I'm working on Artificial Intelligence.
+    Currently I'm working on Deep learning and AI.
   </samp>
 </p>
 
